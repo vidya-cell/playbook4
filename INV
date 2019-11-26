@@ -1,0 +1,4 @@
+[webservers]
+
+172.42.1.7 ansible_user=user1 ansible_password=user123
+
